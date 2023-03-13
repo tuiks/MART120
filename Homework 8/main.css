@@ -1,0 +1,16 @@
+#bg{
+    background-image: url("board.jpg");
+}
+
+
+div{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: crimson;
+    font-size: 32px;
+}
+
+#ud{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
